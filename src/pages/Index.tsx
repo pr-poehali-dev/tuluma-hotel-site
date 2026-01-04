@@ -107,17 +107,17 @@ const Index = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{ 
-            backgroundImage: `url('https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/5f25d582-0d2b-442f-a63e-0ede36431c60.jpg')`,
-            filter: 'brightness(0.7)'
+            backgroundImage: `url('https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/4b7e6a3f-17c7-4968-94df-3036b5ea1503.jpg')`,
+            filter: 'brightness(0.8)'
           }}
         />
         <div className="container mx-auto px-4 relative z-10 text-white">
           <div className="max-w-3xl animate-fade-in">
-            <h2 className="text-6xl md:text-7xl font-bold mb-6">Отдых в гармонии с природой</h2>
-            <p className="text-xl md:text-2xl mb-8 opacity-90">
-              Гостиничный комплекс на берегу реки Тулума в посёлке Верхнеполомский
+            <h2 className="text-6xl md:text-7xl font-bold mb-6 drop-shadow-lg">Зимний отдых на природе</h2>
+            <p className="text-xl md:text-2xl mb-8 opacity-95 drop-shadow-md">
+              Уютный гостиничный комплекс на берегу заснеженной реки Тулума
             </p>
-            <Button size="lg" onClick={() => scrollToSection('booking')} className="bg-primary hover:bg-primary/90 text-primary-foreground">
+            <Button size="lg" onClick={() => scrollToSection('booking')} className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-xl">
               Забронировать
             </Button>
           </div>
