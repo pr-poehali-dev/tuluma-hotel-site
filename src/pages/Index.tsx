@@ -30,7 +30,7 @@ const Index = () => {
       size: '100 м²',
       capacity: '8-10 человек',
       description: 'Уютный дом с сауной, зоной барбекю и видом на лес',
-      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/7cfeaf8d-2808-4e24-983d-e89d3086a59f.jpg'
+      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/b231c2f2-3f97-419c-a43d-fc98871e78ee.jpg'
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ const Index = () => {
       size: '50 м²',
       capacity: '4-5 человек',
       description: 'Компактный дом для небольшой компании с террасой и мангалом',
-      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/7cfeaf8d-2808-4e24-983d-e89d3086a59f.jpg'
+      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/5f25d582-0d2b-442f-a63e-0ede36431c60.jpg'
     },
     {
       id: 4,
@@ -46,7 +46,7 @@ const Index = () => {
       size: '50 м²',
       capacity: '4-5 человек',
       description: 'Уединённый домик в лесу, идеален для спокойного отдыха',
-      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/7cfeaf8d-2808-4e24-983d-e89d3086a59f.jpg'
+      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/b231c2f2-3f97-419c-a43d-fc98871e78ee.jpg'
     },
     {
       id: 5,
@@ -54,7 +54,7 @@ const Index = () => {
       size: '40 мест',
       capacity: 'до 40 человек',
       description: 'Комфортабельная гостиница с отдельными номерами и общей зоной отдыха',
-      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/7cfeaf8d-2808-4e24-983d-e89d3086a59f.jpg'
+      image: 'https://cdn.poehali.dev/projects/de6a668c-479a-42c6-87ed-b633f910e049/files/5f25d582-0d2b-442f-a63e-0ede36431c60.jpg'
     }
   ];
 
